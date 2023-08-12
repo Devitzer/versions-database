@@ -1,10 +1,10 @@
 {
     "metadata": {
         "citrinescript": {
-            "version": "v1.3.1.1"
+            "version": "v2.0.0.0"
         },
         "citrin": {
-            "version": "v1.3.0.1"
+            "version": "v1.4.0.0"
         }
     }
 }
